@@ -1,4 +1,4 @@
-# Rewards endpoints
+# Color Change Boxes
 
 CSS Grid Layout Color Boxes using ReactJS.
 
